@@ -3,3 +3,21 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.page {
+	width: 1000px;
+	margin: 65px auto 0;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 55px;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	gap: 48px;
+}
