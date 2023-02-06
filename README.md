@@ -1,5 +1,5 @@
 <p align="center">
-<h1> Projeto 02 - Treine.me </h1>
+<img alt="logo" src="./assets/logo.svg" style="width: 250px">
 </p>
 
 <p align="center">
